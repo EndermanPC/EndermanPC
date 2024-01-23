@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**EndermanPC/EndermanPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working at: Lithicsoft Organization.
+- 🌱 And currently studying at: Secondary school
+- 🤔 I'm looking for help with my projects
+- 💬 Ask me about: OSDev and AI
+- 📫 Contact me via: tansangbuinguyen52@gmail.com
+- 😄 Pronoun: amd64
+- ⚡ Fun fact: I guess I don't know how to code
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndermanPC&layout=compact" width="333" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EndermanPC&show_icons=true" width="400"/>
+</a>
