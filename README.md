@@ -11,3 +11,6 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EndermanPC&show_icons=true" width="400"/>
 </a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EndermanPC&show_icons=true" width="400"/>
+</a>
