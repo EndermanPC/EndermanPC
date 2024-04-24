@@ -14,8 +14,6 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EndermanPC&show_icons=true&theme=radical" width="400"/>
 </a>
-
-<!-- Thêm một số biểu đồ khác -->
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EndermanPC&theme=radical" width="400"/>
 </a>
