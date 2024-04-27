@@ -3,9 +3,9 @@
 - 🔭 I am currently working at: Lithicsoft Organization.
 - 🌱 And currently studying at: Secondary school.
 - 🤔 I'm looking for help with my projects.
-- 💬 Ask me about: OSDev and AI.
-- 📫 Contact me via: tansangbuinguyen52@gmail.com.
-- 😄 Pronoun: amd64.
+- 💬 Ask me about: CNN and LLM.
+- 📫 Contact me via: tansangbuinguyen52@gmail.com or endermatday@gmail.com.
+- 😄 Pronoun: He/Him.
 - ⚡ Fun fact: I guess I don't know how to code.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndermanPC&layout=compact&theme=ambient_gradient" width="333" />
