@@ -9,11 +9,11 @@
 - ⚡ Fun fact: I guess I don't know how to code.
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndermanPC&layout=compact&theme=radical" width="333" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndermanPC&layout=compact&theme=ambient_gradient" width="333" />
 </a>
+&nbsp;&nbsp;&nbsp;<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EndermanPC&show_icons=true&theme=ambient_gradient" width="400"/>
+</a><br><br>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EndermanPC&show_icons=true&theme=radical" width="400"/>
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EndermanPC&theme=radical" width="400"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EndermanPC&theme=ambient_gradient" width="400"/>
 </a>
