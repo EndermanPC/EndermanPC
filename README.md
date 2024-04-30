@@ -8,5 +8,9 @@
 - 😄 Pronoun: He/Him.
 - ⚡ Fun fact: I guess I don't know how to code.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndermanPC&layout=compact&theme=ambient_gradient" width="333" />
-<img src="https://github-readme-stats.vercel.app/api?username=EndermanPC&show_icons=true&theme=ambient_gradient" width="400"/>
+## Github Stats
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EndermanPC&theme=github_dark" /></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EndermanPC&theme=github_dark" /></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EndermanPC&theme=github_dark" /></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EndermanPC&theme=github_dark" /></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EndermanPC&utcOffset=7&theme=github_dark" /></a>
