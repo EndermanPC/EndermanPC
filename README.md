@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working at: Lithicsoft Organization.
 - 🌱 And currently studying at: Secondary school.
-- 🤔 I'm looking for help with my projects.
+- 🤔 I'm looking for help with Arduino (PLEASE HELP ME IF YOU CAN, MY BRAIN OUTTT).
 - 💬 Ask me about: CNN and LLM.
 - 📫 Contact me via: tansangbuinguyen52@gmail.com or endermatday@gmail.com.
 - 😄 Pronoun: He/Him.
