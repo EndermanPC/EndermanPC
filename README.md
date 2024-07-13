@@ -4,7 +4,7 @@
 - 🌱 And currently studying at: Secondary school.
 - 🤔 I'm looking for help with Arduino (PLEASE HELP ME IF YOU CAN, MY BRAIN OUTTT).
 - 💬 Ask me about: CNN and LLM.
-- 📫 Contact me via: tansangbuinguyen52@gmail.com or endermatday@gmail.com.
+- 📫 Contact me via: tansangbuinguyen52@gmail.com or endermatday@gmail.com (if you want me answer you faster, send to lithicsoft@gmail.com).
 - 😄 Pronoun: He/Him.
 - ⚡ Fun fact: I guess I don't know how to code.
 
