@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/i1miss1her" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="i1miss1her" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zeanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zeanth" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zeanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zeanth" height="30" width="40" /></a>
 <a href="https://discord.gg/dNQunYaXrX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dNQunYaXrX" height="30" width="40" /></a>
 </p>
 
